@@ -2,7 +2,7 @@
  *  @brief Contains the assembly code for the the functions declared in asm.h.
  *
  *  @author Denis Rochau (drochau)
- *  @bug No known bugs.
+ *  @bug Need to replace _my_add by my_add on some machines
  */
 
 /************************
